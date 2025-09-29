@@ -1,0 +1,15 @@
+C:\Users\darri\source\repos\practice_module_1_tasks\practice_module_1_tasks\bin\Debug\net8.0\practice_module_1_tasks.exe
+C:\Users\darri\source\repos\practice_module_1_tasks\practice_module_1_tasks\bin\Debug\net8.0\practice_module_1_tasks.deps.json
+C:\Users\darri\source\repos\practice_module_1_tasks\practice_module_1_tasks\bin\Debug\net8.0\practice_module_1_tasks.runtimeconfig.json
+C:\Users\darri\source\repos\practice_module_1_tasks\practice_module_1_tasks\bin\Debug\net8.0\practice_module_1_tasks.dll
+C:\Users\darri\source\repos\practice_module_1_tasks\practice_module_1_tasks\bin\Debug\net8.0\practice_module_1_tasks.pdb
+C:\Users\darri\source\repos\practice_module_1_tasks\practice_module_1_tasks\obj\Debug\net8.0\practice_module_1_tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darri\source\repos\practice_module_1_tasks\practice_module_1_tasks\obj\Debug\net8.0\practice_module_1_tasks.AssemblyInfoInputs.cache
+C:\Users\darri\source\repos\practice_module_1_tasks\practice_module_1_tasks\obj\Debug\net8.0\practice_module_1_tasks.AssemblyInfo.cs
+C:\Users\darri\source\repos\practice_module_1_tasks\practice_module_1_tasks\obj\Debug\net8.0\practice_module_1_tasks.csproj.CoreCompileInputs.cache
+C:\Users\darri\source\repos\practice_module_1_tasks\practice_module_1_tasks\obj\Debug\net8.0\practice_module_1_tasks.sourcelink.json
+C:\Users\darri\source\repos\practice_module_1_tasks\practice_module_1_tasks\obj\Debug\net8.0\practice_module_1_tasks.dll
+C:\Users\darri\source\repos\practice_module_1_tasks\practice_module_1_tasks\obj\Debug\net8.0\refint\practice_module_1_tasks.dll
+C:\Users\darri\source\repos\practice_module_1_tasks\practice_module_1_tasks\obj\Debug\net8.0\practice_module_1_tasks.pdb
+C:\Users\darri\source\repos\practice_module_1_tasks\practice_module_1_tasks\obj\Debug\net8.0\practice_module_1_tasks.genruntimeconfig.cache
+C:\Users\darri\source\repos\practice_module_1_tasks\practice_module_1_tasks\obj\Debug\net8.0\ref\practice_module_1_tasks.dll
